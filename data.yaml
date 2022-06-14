@@ -1,0 +1,5 @@
+train: /home/ubuntu/yolov5/train/images
+val: /home/ubuntu/yolov5/valid/images
+
+nc: 1
+names: ['sliding']
